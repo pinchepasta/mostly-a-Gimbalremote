@@ -8,5 +8,5 @@ Still a work in progress, but it works pretty damn well already
 
 <h2>Why does it exist?</h2>
 
-Well, DJI refused to make an api for the OSMO Mobile 3, and thus no third party apps or remotes exist, also they refused to add support for gamepads as controller.
+Well, DJI refused to make an api or dev environment for the OSMO Mobile 3, and thus no third party apps or remotes exist, also they refused to add support for gamepads as controller.
 I made both possible, check out the newest release!
