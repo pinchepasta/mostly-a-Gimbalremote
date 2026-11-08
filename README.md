@@ -1,6 +1,6 @@
 <h2>What is it?</h2>
 
-Remote app for DJI Osmo Mobile 3 smartphone gimbal, works on Android and Playstation 5 Dualsense controllers.
+Well, it's a remote app for DJI Osmo Mobile 3 smartphone gimbal, basically a command center, and it works on Android with connected Playstation 5 Dualsense controllers.
 Just pair both with the phone, put whatever other phone you have into the gimbal(no matter if ios or android) and remote control the gimbal from your screen or controller.
 It also allows you to record and play actions, like gimbal movements.
 
