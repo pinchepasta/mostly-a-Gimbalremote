@@ -13,7 +13,7 @@ I made both possible, check out the newest release!
 
 <h2>Alright, but what does it look like?</h2>
 
-<img width="488" height="1500" alt="ui" src="https://github.com/user-attachments/assets/18f6fc7b-7593-4a6d-b1c1-81e7c8c8c9b9" />
+<img width="326" height="1000" alt="ui" src="https://github.com/user-attachments/assets/18f6fc7b-7593-4a6d-b1c1-81e7c8c8c9b9" />
 
 
 <h2>And the operational part?</h2>
