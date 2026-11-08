@@ -1,3 +1,4 @@
+<img width="651" height="2000" alt="ui" src="https://github.com/user-attachments/assets/f78124d1-08d6-4ecb-b155-2cf54fb16e0f" />
 <h2>What is it?</h2>
 
 Remote app for DJI Osmo Mobile 3 smartphone gimbal, works on Android and Playstation 5 Dualsense controllers.
@@ -12,7 +13,9 @@ Well, DJI refused to make an api or dev environment for the OSMO Mobile 3, and t
 I made both possible, check out the newest release!
 
 <h2>Alright, but what does it look like?</h2>
-Screenshots coming soon.
+
+<img width="488" height="1500" alt="ui" src="https://github.com/user-attachments/assets/18f6fc7b-7593-4a6d-b1c1-81e7c8c8c9b9" />
+
 
 <h2>And the operational part?</h2>
 
