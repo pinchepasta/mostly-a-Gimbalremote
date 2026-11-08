@@ -14,6 +14,16 @@ I made both possible, check out the newest release!
 <h2>Alright, but what does it look like?</h2>
 Screenshots coming soon.
 
+<h2>And the operational part?</h2>
+
+
+
+https://github.com/user-attachments/assets/8615282d-4d1a-4c5b-a1d3-0662f0b0ecfc
+
+
+
+
+
 <h2>Testfootage made with the app</h2>
 
 
