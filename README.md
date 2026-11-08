@@ -1,8 +1,9 @@
 <h2>What is it?</h2>
 
 Well, it's a remote app for DJI Osmo Mobile 3 smartphone gimbal, basically a command center, and it works on Android with connected Playstation 5 Dualsense controllers.
-Just pair both with the phone, put whatever other phone you have in the gimbal(no matter if ios or android) and remote control the gimbal from your screen or controller.
-It also allows you to record and play actions, like gimbal movements.
+Just pair both with the phone, put whatever other phone you have in the gimbal's clamp or magnetic holder(no matter if ios or android) and remote control the gimbal from your screen or controller. You can even use Actionscams like a Gopro for example, you just need a 3d printed adapter to hold it in place.
+
+It also allows you to record and play actions, like gimbal movements. It's called Automations, and it's very easy to use, one push of a button and it records movement, another one and it saves it. And then it's replay time! Like a robot, over and over again.
 
 Still a work in progress, but it works pretty damn well already
 
