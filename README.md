@@ -16,6 +16,8 @@ I made both possible, check out the newest release!
 
 <img width="326" height="1000" alt="ui" src="https://github.com/user-attachments/assets/18f6fc7b-7593-4a6d-b1c1-81e7c8c8c9b9" />
 
+It's quite important to short press the "M" button before you click "connect BLE" on your device, this has something to do with the handshake and how the gimbals handles the pairing.
+
 
 <h2>And the operational part?</h2>
 
