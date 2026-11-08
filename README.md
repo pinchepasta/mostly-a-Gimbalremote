@@ -33,6 +33,8 @@ https://github.com/user-attachments/assets/8615282d-4d1a-4c5b-a1d3-0662f0b0ecfc
 https://github.com/user-attachments/assets/6dfa71dd-caa3-48c8-a354-6e40e491a801
 
 
+<h2>Compatible with:</h2>
+At this point in time it's only compatible with the Dji Osmo Mobile 3, cause the 4th or 5th iteration finally got their own sdk. I don't know if even older BLE capable Dji gimbals exist, but if someone needs the tool for one, I suggest contacting me.
 
 
-
+So far, enjoy your production value going up!
