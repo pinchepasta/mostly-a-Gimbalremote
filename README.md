@@ -66,6 +66,20 @@ https://github.com/user-attachments/assets/0bdf97e4-16e8-433a-8265-bc3672129f72
 <br>
 
 
+<h2>Controls</h2>
+<img width="40%" height="40%" alt="sticks" src="https://github.com/user-attachments/assets/8202158d-cd82-42c3-b7cf-640db56a6332" /><img width="40%" height="40%" alt="lbtns" src="https://github.com/user-attachments/assets/9a6e7f3e-af11-4bf4-bdf5-48e2fad11d36" />
+
+<br> 
+
+<b> SL </b> The left stick controls the gimbal at any given speed, up to 100%
+<b> SR </b> The right stick is meant for precision work, it does control the same axis but much slower and more precise.
+
+<b>L2 & R2 </b> The analog triggers controls the roll axis, with variable speed, push a little and move slow, push full force and it moves much quicker.
+
+
+
+<br>
+
 <h2>Compatible with:</h2>
 At this point in time it's only compatible with the Dji Osmo Mobile 3, cause the 4th or 5th iteration finally got their own sdk. I don't know if even older BLE capable Dji gimbals exist, but if someone needs the tool for one, I suggest contacting me.
 
