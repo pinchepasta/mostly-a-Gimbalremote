@@ -21,7 +21,11 @@ I made both possible, check out the newest release!
 
 
 
-https://github.com/user-attachments/assets/8615282d-4d1a-4c5b-a1d3-0662f0b0ecfc
+
+
+https://github.com/user-attachments/assets/d1746f91-bbbd-497f-ac99-5343c5503481
+
+
 
 
 
@@ -31,7 +35,16 @@ https://github.com/user-attachments/assets/8615282d-4d1a-4c5b-a1d3-0662f0b0ecfc
 
 
 
-https://github.com/user-attachments/assets/6dfa71dd-caa3-48c8-a354-6e40e491a801
+
+
+
+https://github.com/user-attachments/assets/0bdf97e4-16e8-433a-8265-bc3672129f72
+
+
+
+
+
+
 
 
 
