@@ -48,15 +48,22 @@ https://github.com/user-attachments/assets/0bdf97e4-16e8-433a-8265-bc3672129f72
 
 
 
-<h2>How does the pairing work?</h2>
+<h2>The Pairing Process</h2>
+
+<h3>Do exactly these 3 steps below, to connect your gimbal to the app!</h3>
+
+<br>
+
+<b>On the Gimbal:</b> A short push on "M" button.
+
+<b>In the App:</b> Click "Connect BLE"
+
+<b>On the Gimbal:</b> Now press and hold the "M" button for 2-3 seconds
+
+<b>And that's it, you're connected now!"
 
 
-
-https://github.com/user-attachments/assets/0c2224b8-a273-4d58-b05e-fe6acfb47085
-
-
-It's quite important to short press the "M" button before you click "connect BLE" on your device, this has something to do with the handshake and how the gimbals handles the pairing.
-
+<br>
 
 
 <h2>Compatible with:</h2>
